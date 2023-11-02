@@ -1,3 +1,2 @@
 # Javascript-Projects
-YouTube clone built with HTML, CSS, and JavaScript. YouTube API data will be used to display videos on the website.
-It will be a replica of YouTube in terms of its UI
+Google Clone is built with Nextjs. A user will be search for something and get the results using google data
